@@ -2,8 +2,6 @@ import express from "express";
 import cors from "cors";
 import userService from "./user-services.js";
 
-
-
 const app = express();
 const port = 8000;
 
